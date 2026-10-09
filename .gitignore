@@ -1,6 +1,6 @@
-   venv/
-   __pycache__/
-   *.pyc
-   .DS_Store
-   data/raw/
-   data/processed/*.db
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/
+data/processed/*.db
